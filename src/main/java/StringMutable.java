@@ -1,19 +1,20 @@
 public class StringMutable {
     public static void main(String[] args) {
 
-        String st = new String("lukasz");
-        st += " kowalski";
+       String word = "something";
 
-        System.out.println(st);
+       char[] chars = word.toCharArray();
 
-        mark: for (int j = 0; j < 3; j++) {
-            for (int i = 0; i < 10; i++) {
-                if (i == 5) {
-                    break mark;
-                }
-                System.out.println(i);
-            }
-        }
-        System.out.println("more");
+       System.out.println(chars.length);
+
+       char sign = word.charAt(2);
+
+       System.out.println(sign);
+
+       char[] chars1 = new char[3];
+       word.getChars(0,3,chars1,0);
+       System.out.println(chars1);
+
+
     }
 }

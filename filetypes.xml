@@ -4,6 +4,7 @@
       <mapping pattern="genkey" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="info" type="PLAIN_TEXT" />
+      <mapping pattern="application" type="Properties" />
       <mapping pattern="db" type="Properties" />
     </extensionMap>
   </component>

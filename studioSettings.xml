@@ -1,0 +1,24 @@
+<application>
+  <component name="StudioSettings">
+    <option name="generalSettings">
+      <GeneralSettings>
+        <option name="enableInternalFeatures" value="false" />
+        <option name="macAddress" value="5C-5F-67-40-02-C7" />
+      </GeneralSettings>
+    </option>
+    <option name="sdkSettings">
+      <SdkSettings>
+        <option name="allSdks">
+          <list>
+            <SdkInfo>
+              <option name="sdkType" value="ODPS_CMD" />
+              <option name="version" value="0.33.1-public" />
+              <option name="installedLocation" value="C:\Users\szyp8\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\odps-studio-intellij\odpscmd_public" />
+              <option name="isDefault" value="true" />
+            </SdkInfo>
+          </list>
+        </option>
+      </SdkSettings>
+    </option>
+  </component>
+</application>

@@ -12,7 +12,7 @@
           <list>
             <SdkInfo>
               <option name="sdkType" value="ODPS_CMD" />
-              <option name="version" value="0.33.1-public" />
+              <option name="version" value="0.34.1-public" />
               <option name="installedLocation" value="C:\Users\szyp8\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\odps-studio-intellij\odpscmd_public" />
               <option name="isDefault" value="true" />
             </SdkInfo>

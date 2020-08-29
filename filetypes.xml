@@ -1,11 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="info" type="PLAIN_TEXT" />
       <mapping pattern="genkey" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
-      <mapping pattern="info" type="PLAIN_TEXT" />
-      <mapping pattern="application" type="Properties" />
       <mapping pattern="db" type="Properties" />
+      <mapping pattern="application" type="Properties" />
     </extensionMap>
   </component>
 </application>

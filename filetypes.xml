@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="info" type="PLAIN_TEXT" />
       <mapping pattern="genkey" type="PLAIN_TEXT" />
+      <mapping pattern="MySQLdata" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="db" type="Properties" />
       <mapping pattern="application" type="Properties" />

@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -7,8 +7,10 @@
       <mapping pattern="genkey" type="PLAIN_TEXT" />
       <mapping pattern="MySQLdata" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
-      <mapping pattern="db" type="Properties" />
       <mapping pattern="application" type="Properties" />
+      <mapping pattern="db" type="Properties" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
